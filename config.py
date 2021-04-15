@@ -1,0 +1,1 @@
+ALLOWS_EXTENSION = [".wav", ".mp3"]
